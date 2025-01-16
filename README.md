@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I’m a passionate **full-stack developer** with e
 ## 🚀 About Me
 - 🌍 Based in **Mumbai, India**.
 - 👨‍💻 I specialize in building **scalable web applications** using **React**, **Spring Boot**, **Node.js**, and **TailwindCSS**.
-- 💡 I’m passionate about **open-source**, **AI**, and **machine learning**.
+- 💡 I’m passionate about **open-source**, **software devlopment**, and **machine learning**.
 - 🚀 Always open to collaborating on interesting projects and exploring new technologies!
 
 ## 🛠️ Skills
@@ -14,12 +14,10 @@ Welcome to my GitHub profile. I’m a passionate **full-stack developer** with e
 - **Backend**: Spring Boot, Node.js, Express.js
 - **Database**: MySQL, MongoDB, Firebase
 - **Tools**: Git, Docker, Postman, Vercel, AWS
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
 
 ## 🧑‍💻 Current Projects
 - **[Workler](https://www.workler.in)**: A **job portal and professional networking platform** built with React and Node.js.
 - **Library Management System**: A web-based **library management system** built with **Spring Boot** and **React**.
-- **Abusive Comment Detection**: A **machine learning project** that detects abusive comments using **linear regression** and blurs them in the frontend.
 
 ## 📂 My GitHub Repositories
 - [Workler - Job Portal](https://github.com/yogeshgosavii/workler)
@@ -27,7 +25,7 @@ Welcome to my GitHub profile. I’m a passionate **full-stack developer** with e
 
 ## 🌱 I’m Currently Learning
 - **Typescript**: Exploring new techniques for make the code throw less runtime errors.
-- **Cloud Computing**: Working with cloud platforms like AWS and GCP to deploy scalable applications.
+- **Cloud Computing**: Working with cloud platforms like AWS to deploy scalable applications.
 
 ## 📬 Let's Connect!
 - LinkedIn: [Yogesh Gosavi](www.linkedin.com/in/yogeshgosavii)
