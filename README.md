@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Yogesh! 👋
 
-<!--
-**yogeshgosavii/yogeshgosavii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m a passionate **full-stack developer** with experience in both front-end and back-end technologies. I'm always learning and building cool projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌍 Based in **Mumbai, India**.
+- 👨‍💻 I specialize in building **scalable web applications** using **React**, **Spring Boot**, **Node.js**, and **TailwindCSS**.
+- 💡 I’m passionate about **open-source**, **AI**, and **machine learning**.
+- 🚀 Always open to collaborating on interesting projects and exploring new technologies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: JavaScript, Java, Python, SQL
+- **Frontend**: React, Redux, HTML, CSS, TailwindCSS
+- **Backend**: Spring Boot, Node.js, Express.js
+- **Database**: MySQL, MongoDB, Firebase
+- **Tools**: Git, Docker, Postman, Vercel, AWS
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+
+## 🧑‍💻 Current Projects
+- **[Workler](https://www.workler.in)**: A **job portal and professional networking platform** built with React and Node.js.
+- **Library Management System**: A web-based **library management system** built with **Spring Boot** and **React**.
+- **Abusive Comment Detection**: A **machine learning project** that detects abusive comments using **linear regression** and blurs them in the frontend.
+
+## 📂 My GitHub Repositories
+- [Workler - Job Portal](https://github.com/yogeshgosavii/workler)
+- [Library Management System](https://github.com/yogeshgosavii/library-management-system)
+
+## 🌱 I’m Currently Learning
+- **Typescript**: Exploring new techniques for make the code throw less runtime errors.
+- **Cloud Computing**: Working with cloud platforms like AWS and GCP to deploy scalable applications.
+
+## 📬 Let's Connect!
+- LinkedIn: [Yogesh Gosavi](www.linkedin.com/in/yogeshgosavii)
+- Portfolio: [yogeshgosavii.com](https://yogesh-github.netlify.app/)
+
+## 🤝 Contributions
+I love contributing to open-source projects! If you have any interesting projects or need help, feel free to reach out or open an issue on my repositories.
+
+---
+
+> "The best way to predict the future is to invent it."
+
