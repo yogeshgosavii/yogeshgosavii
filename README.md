@@ -15,13 +15,9 @@ Welcome to my GitHub profile. I’m a passionate **full-stack developer** with e
 - **Database**: MySQL, MongoDB, Firebase
 - **Tools**: Git, Docker, Postman, Vercel, AWS
 
-## 🧑‍💻 Current Projects
+## 🧑‍💻 Top Projects
 - **[Workler](https://www.workler.in)**: A **job portal and professional networking platform** built with React and Node.js.
 - **Library Management System**: A web-based **library management system** built with **Spring Boot** and **React**.
-
-## 📂 My Top GitHub Repositories
-- [Workler - Job Portal](https://github.com/yogeshgosavii/workler)
-- [Library Management System](https://github.com/yogeshgosavii/library-management-system)
 
 ## 🌱 I’m Currently Learning
 - **Typescript**: Exploring new techniques for make the code throw less runtime errors.
